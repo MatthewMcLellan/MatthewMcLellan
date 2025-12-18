@@ -1,5 +1,5 @@
 # 💫 About Me:
-Central Washington University. Business and Marketing Education. Educator at Mercer Island High School. <br>Founder of AM Solutions and McLellan Tutoring<br>
+Purdue University <br>Founder of AM Solutions and McLellan Tutoring<br>
 
 
 ## 🌐 Socials:
