@@ -1,9 +1,9 @@
 # About Me:
 Creator of smart DIY software, fixin<br><br>Purdue University<br>Founder of AM Solutions and McLellan Tutoring
 
-[AM Solutions, LLC](https://amsolutions-sea.com)
-[fixin - Web](https://ams-fixin.com)
-[fixin - iOS](https://apps.apple.com/us/app/fixin/id6755448308)
+[AM Solutions, LLC](https://amsolutions-sea.com)<br>
+[fixin - Web](https://ams-fixin.com)<br>
+[fixin - iOS](https://apps.apple.com/us/app/fixin/id6755448308)<br>
 [fixin - Android](https://play.google.com/store/apps/details?id=com.fixin.android)
 
 
