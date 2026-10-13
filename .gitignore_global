@@ -1,0 +1,20 @@
+# Node
+npm-debug.log
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# WebStorm
+.idea/
+
+# vi
+*~
+
+# General
+log/
+*.log
+
+*.p12 *.p8 *.pem *.key *.cer *.mobileprovision *.pkpass *accessKeys*.csv .env* secrets.json *.mlmodelkey __pycache__/ xcuserdata/ build/ .claude/
