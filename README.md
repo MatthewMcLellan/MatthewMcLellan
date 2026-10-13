@@ -1,6 +1,11 @@
 # About Me:
 Creator of smart DIY software, fixin<br><br>Purdue University<br>Founder of AM Solutions and McLellan Tutoring
 
+[AM Solutions, LLC](https://amsolutions-sea.com)
+[fixin - Web](https://ams-fixin.com)
+[fixin - iOS](https://apps.apple.com/us/app/fixin/id6755448308)
+[fixin - Android](https://play.google.com/store/apps/details?id=com.fixin.android)
+
 
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/amsolutions.seattle) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ams_sea) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mattmcl3llan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@amsolutions-sea) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matt@amsolutions-sea.com) 
